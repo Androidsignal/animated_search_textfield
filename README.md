@@ -12,11 +12,11 @@ It expands smoothly when tapped, shows a search input, and collapses back with a
 
 🎨 Customizable colors, icons, and styles.
 
-⌨️ Pass your own TextField for full control.
+⌨️ Pass your own `TextField` for full control.
 
 🛠️ Easy integration into any screen.
 
-⚡  Replace default FAB with your custom FloatingActionButton
+⚡  Replace default FAB with your custom `FloatingActionButton`.
 
 ---
 ## How to use it ?
@@ -50,7 +50,7 @@ import 'package:animated_search_textfield/animated_search_textfield.dart';
 
 ### 4. Use it
 
-Sample app demonstrates how simple the usage of the library actually is.
+[Sample](https://github.com/Androidsignal/animated_search_textfield/blob/main/example/main.dart) app demonstrates how simple the usage of the library actually is.
 
 Using PriceText in your project is super simple.
 
@@ -125,7 +125,7 @@ You just need to add the widget with an amount and currency type, and it will ha
 
 # Bugs and Feedback 
 We welcome and appreciate any suggestions you may have for improvement.
-For bugs, questions, and discussions please use the [GitHub Issues](your link).
+For bugs, questions, and discussions please use the [GitHub Issues](https://github.com/Androidsignal/animated_search_textfield/issues).
 
 # Acknowledgments 
 It extends Flutter’s foundation to provide a ready-to-use, customizable currency formatter widget.While Flutter and intl provide the base, animated_search_textfield simplifies the process by combining widgets and formatting logic into a single package you can drop into any app.
