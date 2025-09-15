@@ -3,7 +3,7 @@ description: "A customizable and animated search text field widget for Flutter."
 homepage: https://github.com/Androidsignal/animated_search_textfield/blob/main/example/main.dart
 repository: https://github.com/Androidsignal/animated_search_textfield
 issue_tracker: https://github.com/Androidsignal/animated_search_textfield/issues
-version: 0.0.1
+version: 0.0.2
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
