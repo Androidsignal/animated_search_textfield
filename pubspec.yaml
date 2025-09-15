@@ -1,6 +1,6 @@
 name: animated_search_textfield
 description: "A customizable and animated search text field widget for Flutter."
-homepage:
+homepage: https://github.com/Androidsignal/animated_search_textfield/blob/main/example/main.dart
 repository: https://github.com/Androidsignal/animated_search_textfield
 issue_tracker: https://github.com/Androidsignal/animated_search_textfield/issues
 version: 0.0.1
