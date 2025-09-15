@@ -44,7 +44,8 @@ class ExampleScreen extends StatelessWidget {
             cursorColor: Colors.deepOrange,
           ),
           iconSize: 30, // The size of icon
-          iconBackgroundColor: Colors.blueAccent, // The background color of icon
+          iconBackgroundColor:
+              Colors.blueAccent, // The background color of icon
           iconColor: Colors.white, // The color of icon
           /// floatingActionButton: You can provide your own FloatingActionButton widget
           floatingActionButton: FloatingActionButton.large(
@@ -52,13 +53,14 @@ class ExampleScreen extends StatelessWidget {
             shape: CircleBorder(
               side: BorderSide(color: Colors.grey.shade300),
             ),
-            onPressed: () {  },
+            onPressed: () {},
             child: const Icon(Icons.search, color: Colors.black),
           ),
-          searchTextFieldColor: Colors.grey, // The background color of TextField
+          searchTextFieldColor:
+              Colors.grey, // The background color of TextField
           backIcon: Icons.arrow_back, // back icon
           searchIcon: Icons.search, // search icon
-          duration:  const Duration(milliseconds: 300), // duration of animation
+          duration: const Duration(milliseconds: 300), // duration of animation
         ),
       ),
     );
